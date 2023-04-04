@@ -5,8 +5,6 @@ game 'gta5'
 lua54 'yes'
 
 author 'Ju'
-description 'JuFx RP Miscs'
+description 'RP Map Animation'
 
-client_scripts {
-  'client/map.lua',
-}
+client_script 'map.lua'
