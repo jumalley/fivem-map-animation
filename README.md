@@ -46,5 +46,3 @@ All props and animations are safely removed if:
 ## 📄 License
 
 MIT — free to use, modify, and share.
-
-Let me know if you also want a `fxmanifest.lua` file written up or if you’d like to extend this with other menu-based animations!
