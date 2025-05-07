@@ -23,8 +23,6 @@ This FiveM Lua script plays a tourist map animation when the player opens the pa
    start your-script-name
    ```
 
-3. Make sure the map prop (`p_tourist_map_01_s`) is available in your game build.
-
 ## 🧩 Example Usage
 
 No interaction is needed from the player — just open the pause menu and enjoy the immersive idle animation!
